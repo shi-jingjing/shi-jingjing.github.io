@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Zhong on Jingjing Shi</title>
+    <link>https://shi-jingjing.github.io/authors/y.-zhong/</link>
+    <description>Recent content in Y. Zhong on Jingjing Shi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://shi-jingjing.github.io/authors/y.-zhong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thermal Boundary Resistance Predictions with Non-Equilibrium Green&#39;s Function and Molecular Dynamics Simulations</title>
+      <link>https://shi-jingjing.github.io/publication/chu-thermal-boundary-resistance-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/chu-thermal-boundary-resistance-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unexpected High Inelastic Phonon Transport across Solid-Solid Interface: Modal Nonequilibrium Molecular Dynamics Simulations and Landauer Analysis</title>
+      <link>https://shi-jingjing.github.io/publication/feng-unexpected-high-inelastic-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/feng-unexpected-high-inelastic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposition of the Thermal Boundary Resistance across Carbon Nanotube-Graphene Junctions to Different Mechanisms</title>
+      <link>https://shi-jingjing.github.io/publication/shi-decomposition-thermal-boundary-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/shi-decomposition-thermal-boundary-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

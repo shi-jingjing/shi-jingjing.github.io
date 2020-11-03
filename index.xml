@@ -6,26 +6,53 @@
     <description>Recent content on Jingjing Shi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://shi-jingjing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Multi-Agent Path Planning with Hyperproperties</title>
-      <link>https://shi-jingjing.github.io/publication/2021-iccps-hyper/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <title>Experimental Observation of High Intrinsic Thermal Conductivity of AlN</title>
+      <link>https://shi-jingjing.github.io/publication/cheng-experimental-observation-high-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shi-jingjing.github.io/publication/2021-iccps-hyper/</guid>
+      <guid>https://shi-jingjing.github.io/publication/cheng-experimental-observation-high-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Probabilistic Conformance for Cyber-Physical Systems</title>
-      <link>https://shi-jingjing.github.io/publication/2021-iccps-conformance/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <title>Integration of Polycrystalline Ga2O3 on Diamond for Thermal Management</title>
+      <link>https://shi-jingjing.github.io/publication/cheng-integration-polycrystalline-ga-2-o-3-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shi-jingjing.github.io/publication/2021-iccps-conformance/</guid>
+      <guid>https://shi-jingjing.github.io/publication/cheng-integration-polycrystalline-ga-2-o-3-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Analysis for Thermal Management in Gallium Oxide Field-Effect Transistors</title>
+      <link>https://shi-jingjing.github.io/publication/yuan-modeling-analysis-thermal-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/yuan-modeling-analysis-thermal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Conductance across Harmonic-Matched Epitaxial Al-Sapphire Heterointerfaces</title>
+      <link>https://shi-jingjing.github.io/publication/cheng-thermal-conductance-harmonicmatched-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/cheng-thermal-conductance-harmonicmatched-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Transport across Ion-Cut Monocrystalline Beta-Ga2O3 Thin Films and Bonded Beta-Ga2O3-SiC Interfaces</title>
+      <link>https://shi-jingjing.github.io/publication/cheng-thermal-transport-ioncut-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/cheng-thermal-transport-ioncut-2020/</guid>
       <description></description>
     </item>
     
@@ -35,6 +62,123 @@
       <pubDate>Sat, 13 Jul 2019 14:06:03 -0400</pubDate>
       
       <guid>https://shi-jingjing.github.io/project/smc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Thermal Boundary Conductance across Bonded Heterogeneous GaN-SiC Interfaces</title>
+      <link>https://shi-jingjing.github.io/publication/mu-high-thermal-boundary-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/mu-high-thermal-boundary-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of Phonon Coupling and Non-Equilibrium near the Interface to Interfacial Thermal Resistance: The Multi-Temperature Model and Thermal Circuit</title>
+      <link>https://shi-jingjing.github.io/publication/lu-role-phonon-coupling-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/lu-role-phonon-coupling-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Significantly Reduced Thermal Conductivity in $β$-(Al0.1Ga0.9)2O3/Ga2O3 Superlattices</title>
+      <link>https://shi-jingjing.github.io/publication/cheng-significantly-reduced-thermal-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/cheng-significantly-reduced-thermal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Boundary Resistance Predictions with Non-Equilibrium Green&#39;s Function and Molecular Dynamics Simulations</title>
+      <link>https://shi-jingjing.github.io/publication/chu-thermal-boundary-resistance-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/chu-thermal-boundary-resistance-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Conductance across $β$-Ga2O3-Diamond van Der Waals Heterogeneous Interfaces</title>
+      <link>https://shi-jingjing.github.io/publication/cheng-thermal-conductance-v-ga-2-o-3-diamond-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/cheng-thermal-conductance-v-ga-2-o-3-diamond-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tunable Thermal Energy Transport across Diamond Membranes and Diamond-Si Interfaces by Nanoscale Graphoepitaxy</title>
+      <link>https://shi-jingjing.github.io/publication/cheng-tunable-thermal-energy-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/cheng-tunable-thermal-energy-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unexpected High Inelastic Phonon Transport across Solid-Solid Interface: Modal Nonequilibrium Molecular Dynamics Simulations and Landauer Analysis</title>
+      <link>https://shi-jingjing.github.io/publication/feng-unexpected-high-inelastic-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/feng-unexpected-high-inelastic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposition of the Thermal Boundary Resistance across Carbon Nanotube-Graphene Junctions to Different Mechanisms</title>
+      <link>https://shi-jingjing.github.io/publication/shi-decomposition-thermal-boundary-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/shi-decomposition-thermal-boundary-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominant Phonon Polarization Conversion across Dimensionally Mismatched Interfaces: Carbon-Nanotube-Graphene Junction</title>
+      <link>https://shi-jingjing.github.io/publication/shi-dominant-phonon-polarization-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/shi-dominant-phonon-polarization-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dramatic Increase in the Thermal Boundary Conductance and Radiation Limit from a Nonequilibrium Landauer Approach</title>
+      <link>https://shi-jingjing.github.io/publication/shi-dramatic-increase-thermal-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/shi-dramatic-increase-thermal-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Analysis of Nonequilibrium Molecular Dynamics: Spectral Phonon Temperature and Local Nonequilibrium in Thin Films and across Interfaces</title>
+      <link>https://shi-jingjing.github.io/publication/feng-spectral-analysis-nonequilibrium-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/feng-spectral-analysis-nonequilibrium-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal Transport across Carbon Nanotube-Graphene Covalent and van Der Waals Junctions</title>
+      <link>https://shi-jingjing.github.io/publication/shi-thermal-transport-carbon-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/shi-thermal-transport-carbon-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Network Model for the Thermal Conductivity of Pillared-Graphene Architectures</title>
+      <link>https://shi-jingjing.github.io/publication/shi-network-model-thermal-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://shi-jingjing.github.io/publication/shi-network-model-thermal-2014/</guid>
       <description></description>
     </item>
     
